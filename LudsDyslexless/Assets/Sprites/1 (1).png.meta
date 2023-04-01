@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 594
+        width: 1025
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e6d039e7f1a041a6021101f203a5a
+      internalID: 95821963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 428
+        width: 969
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e34470d8b8eb84790fb9a71c22bda2
+      internalID: -1245876892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +168,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1 (1)_53: 761460771
+      1 (1)_51: 2013639860
+      1 (1)_8: 507001092
+      1 (1)_25: 262684987
+      1 (1)_1: -1245876892
+      1 (1)_19: -1780001145
+      1 (1)_18: 1106526452
+      1 (1)_57: 1872118479
+      1 (1)_14: -217195734
+      1 (1)_29: -1251433476
+      1 (1)_42: 104447451
+      1 (1)_46: 985048405
+      1 (1)_21: -1999077649
+      1 (1)_2: -1416738799
+      1 (1)_20: -1840379539
+      1 (1)_49: 325440628
+      1 (1)_44: 1125646816
+      1 (1)_32: 1235462259
+      1 (1)_40: -67145332
+      1 (1)_38: -550566976
+      1 (1)_50: -1495038817
+      1 (1)_55: -1343801307
+      1 (1)_37: 137380818
+      1 (1)_52: 997484581
+      1 (1)_43: -1610109649
+      1 (1)_27: -1314334153
+      1 (1)_36: -922313982
+      1 (1)_13: 1529494349
+      1 (1)_56: -919071098
+      1 (1)_22: -2035628530
+      1 (1)_28: -1975785347
+      1 (1)_12: 723182550
+      1 (1)_17: 1168398879
+      1 (1)_30: 592445582
+      1 (1)_6: 1569800407
+      1 (1)_39: 141442147
+      1 (1)_5: 689639992
+      1 (1)_35: -735730762
+      1 (1)_7: -1439458889
+      1 (1)_11: 664659108
+      1 (1)_47: 87464982
+      1 (1)_45: -866586941
+      1 (1)_54: -1043817262
+      1 (1)_16: -239396886
+      1 (1)_31: 865161550
+      1 (1)_41: -288514939
+      1 (1)_15: -1036523950
+      1 (1)_26: 1607056892
+      1 (1)_0: 95821963
+      1 (1)_33: -1245928968
+      1 (1)_34: -1050690522
+      1 (1)_24: 1951747449
+      1 (1)_48: 986640663
+      1 (1)_4: 1801414009
+      1 (1)_9: 684062439
+      1 (1)_3: -1908764023
+      1 (1)_10: -405774054
+      1 (1)_23: 901990884
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
